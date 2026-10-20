@@ -1,0 +1,3 @@
+*.car binary
+*.png binary
+lib/*.js linguist-vendored

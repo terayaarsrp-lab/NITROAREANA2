@@ -1,0 +1,4 @@
+[
+ {"id":"sting","name":"Sting C7","src":"models/chevrolet_corvette_c7_stingray.glb"},
+ {"id":"mycar","name":"My Car","src":"models/my_car.glb","flip":false}
+]
